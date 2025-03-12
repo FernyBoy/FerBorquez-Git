@@ -1,0 +1,5 @@
+Expediente: 219208106
+Nombre: Angel Fernando Bórquez Guerrero
+Materia: Ingeniería de Software I
+Docente: Juan Pablo Soto Barrera
+Fecha: 12/03/2025
